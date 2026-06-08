@@ -57,9 +57,11 @@ font-size:1.2rem;
 margin-bottom:30px;
 }
 
-.cartoon{
-font-size:100px;
-animation:float 3s infinite ease-in-out;
+.cartoon img{
+    width:250px;
+    max-width:90%;
+    animation:float 3s ease-in-out infinite;
+}
 }
 
 @keyframes float{
