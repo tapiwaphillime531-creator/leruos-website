@@ -12,7 +12,9 @@ overflow:hidden;
 background:urL("images/IMG_20260508.jpg")
 background-size:cover;
 background-position:center;
-
+bacground-repeat:no-repeat                                                                                                                                                           
+}  
+{
 display:flex;
 justify-content:center;
 align-items:center;
